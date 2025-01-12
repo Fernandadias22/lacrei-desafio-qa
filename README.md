@@ -64,8 +64,8 @@ Os cenários estão documentados em Gherkin na pasta [`gherkin/`]
 1. Os bugs encontrados foram tres que estão bem documentados na pasta [`docs/`] no arquivo BUG_REPORTS.md
 
 ## 📊 Relatórios de Testes
-- Testes de acessibilidade foram feito e documentados no arquivo ACCESSIBILITY.md na pasta [`docs/`] com os dados do teste que eu fiz
-- Testes de desempenho foram feito e documentados no arquivo PERFOMANCE.md na pasta [`docs/`] com os dados do teste que eu fiz utilizando a ferramenta Jmeter
+- Testes de acessibilidade foram feito e documentados no arquivo ACESSIBILIDADE.md na pasta [`docs/`] com os dados do teste que eu fiz
+- Testes de desempenho foram feito e documentados no arquivo DESEMPENHO.md na pasta [`docs/`] com os dados do teste que eu fiz utilizando a ferramenta Jmeter
 
 ---
 📌 **Contato:** Caso tenha dúvidas ou sugestões, entre em contato comigo! 🚀
