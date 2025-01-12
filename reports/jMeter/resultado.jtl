@@ -1,0 +1,31 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1736624597566,1014,Requisição HTTP,200,OK,Grupo de Usuários 1-2,text,true,,29443,276,10,10,https://paciente-staging.lacreisaude.com.br/,412,0,388
+1736624597566,413,Requisição HTTP-0,301,Moved Permanently,Grupo de Usuários 1-2,text,true,,483,138,10,10,http://paciente-staging.lacreisaude.com.br/,412,0,388
+1736624597981,599,Requisição HTTP-1,200,OK,Grupo de Usuários 1-2,text,true,,28960,138,10,10,https://paciente-staging.lacreisaude.com.br/,490,0,207
+1736624598062,544,Requisição HTTP,200,OK,Grupo de Usuários 1-7,text,true,,29443,276,9,9,https://paciente-staging.lacreisaude.com.br/,28,0,11
+1736624598062,28,Requisição HTTP-0,301,Moved Permanently,Grupo de Usuários 1-7,text,true,,483,138,9,9,http://paciente-staging.lacreisaude.com.br/,28,0,11
+1736624598090,516,Requisição HTTP-1,200,OK,Grupo de Usuários 1-7,text,true,,28960,138,9,9,https://paciente-staging.lacreisaude.com.br/,396,0,98
+1736624597515,1094,Requisição HTTP,200,OK,Grupo de Usuários 1-1,text,true,,29443,276,8,8,https://paciente-staging.lacreisaude.com.br/,483,0,438
+1736624597515,483,Requisição HTTP-0,301,Moved Permanently,Grupo de Usuários 1-1,text,true,,483,138,8,8,http://paciente-staging.lacreisaude.com.br/,483,0,438
+1736624598000,609,Requisição HTTP-1,200,OK,Grupo de Usuários 1-1,text,true,,28960,138,8,8,https://paciente-staging.lacreisaude.com.br/,489,0,188
+1736624597765,846,Requisição HTTP,200,OK,Grupo de Usuários 1-4,text,true,,29455,276,7,7,https://paciente-staging.lacreisaude.com.br/,212,0,189
+1736624597765,214,Requisição HTTP-0,301,Moved Permanently,Grupo de Usuários 1-4,text,true,,483,138,7,7,http://paciente-staging.lacreisaude.com.br/,212,0,189
+1736624597981,630,Requisição HTTP-1,200,OK,Grupo de Usuários 1-4,text,true,,28972,138,7,7,https://paciente-staging.lacreisaude.com.br/,510,0,207
+1736624597962,658,Requisição HTTP,200,OK,Grupo de Usuários 1-6,text,true,,29443,276,6,6,https://paciente-staging.lacreisaude.com.br/,27,0,7
+1736624597962,27,Requisição HTTP-0,301,Moved Permanently,Grupo de Usuários 1-6,text,true,,483,138,6,6,http://paciente-staging.lacreisaude.com.br/,27,0,7
+1736624597989,631,Requisição HTTP-1,200,OK,Grupo de Usuários 1-6,text,true,,28960,138,6,6,https://paciente-staging.lacreisaude.com.br/,510,0,199
+1736624597864,781,Requisição HTTP,200,OK,Grupo de Usuários 1-5,text,true,,29443,276,5,5,https://paciente-staging.lacreisaude.com.br/,113,0,93
+1736624597864,115,Requisição HTTP-0,301,Moved Permanently,Grupo de Usuários 1-5,text,true,,483,138,5,5,http://paciente-staging.lacreisaude.com.br/,113,0,93
+1736624597981,664,Requisição HTTP-1,200,OK,Grupo de Usuários 1-5,text,true,,28960,138,5,5,https://paciente-staging.lacreisaude.com.br/,535,0,207
+1736624598161,529,Requisição HTTP,200,OK,Grupo de Usuários 1-8,text,true,,29443,276,4,4,https://paciente-staging.lacreisaude.com.br/,29,0,9
+1736624598161,29,Requisição HTTP-0,301,Moved Permanently,Grupo de Usuários 1-8,text,true,,483,138,4,4,http://paciente-staging.lacreisaude.com.br/,29,0,9
+1736624598190,500,Requisição HTTP-1,200,OK,Grupo de Usuários 1-8,text,true,,28960,138,4,4,https://paciente-staging.lacreisaude.com.br/,369,0,22
+1736624598261,495,Requisição HTTP,200,OK,Grupo de Usuários 1-9,text,true,,29451,276,3,3,https://paciente-staging.lacreisaude.com.br/,28,0,8
+1736624598261,28,Requisição HTTP-0,301,Moved Permanently,Grupo de Usuários 1-9,text,true,,483,138,3,3,http://paciente-staging.lacreisaude.com.br/,28,0,8
+1736624598290,466,Requisição HTTP-1,200,OK,Grupo de Usuários 1-9,text,true,,28968,138,3,3,https://paciente-staging.lacreisaude.com.br/,344,0,22
+1736624597666,1130,Requisição HTTP,200,OK,Grupo de Usuários 1-3,text,true,,29475,276,2,2,https://paciente-staging.lacreisaude.com.br/,312,0,291
+1736624597666,313,Requisição HTTP-0,301,Moved Permanently,Grupo de Usuários 1-3,text,true,,483,138,2,2,http://paciente-staging.lacreisaude.com.br/,312,0,291
+1736624597981,815,Requisição HTTP-1,200,OK,Grupo de Usuários 1-3,text,true,,28992,138,2,2,https://paciente-staging.lacreisaude.com.br/,681,0,207
+1736624598362,449,Requisição HTTP,200,OK,Grupo de Usuários 1-10,text,true,,29443,276,1,1,https://paciente-staging.lacreisaude.com.br/,29,0,8
+1736624598362,29,Requisição HTTP-0,301,Moved Permanently,Grupo de Usuários 1-10,text,true,,483,138,1,1,http://paciente-staging.lacreisaude.com.br/,29,0,8
+1736624598392,419,Requisição HTTP-1,200,OK,Grupo de Usuários 1-10,text,true,,28960,138,1,1,https://paciente-staging.lacreisaude.com.br/,308,0,26
